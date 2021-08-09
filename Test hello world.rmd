@@ -2,7 +2,7 @@
 title: "Testfile hello world"
 author: "KH"
 date: "9 8 2021"
-output: html_document
+output: html_document: keep_md: true
 ---
 
 ```{r setup, include=FALSE}
