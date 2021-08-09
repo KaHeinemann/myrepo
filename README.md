@@ -5,3 +5,5 @@ testing my setup
 This is a Line from RStudio
 
 This is a second line from RStudio
+
+This is from the browser
